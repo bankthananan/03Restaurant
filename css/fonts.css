@@ -2,6 +2,7 @@
 /* CSS Document */
 
 @font-face {
-    font-family: 'MyCustomFont';
-    src:url(../fonts/LithosPro-Regular.otf) format('truetype');
+   /* font-family: 'MyCustomFont';
+    src:url(../fonts/LithosPro-Regular.otf) format('truetype'); */
+	font-family:Arial ;
 }
